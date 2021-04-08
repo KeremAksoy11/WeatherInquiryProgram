@@ -1,0 +1,2 @@
+# WeatherInquiryProgram
+ Selenium ve C# programlama dilleri kullanılarak geliştirilmiştir. İstediğiniz şehrin ismini programa giriyorsunuz ve program çalışıyor. Program gerekli bilgileri toparladıktan sonra not defterine kayıt edip verileri getiriyor. It has been developed using Selenium and C # programming languages. You enter the name of the city you want in the program and the program runs. After the program collects the necessary information, it records it in the notebook and brings the data.
