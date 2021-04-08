@@ -1,0 +1,108 @@
+********************************
+Gün: 4 Nisan 2021 Pazar 17:45
+Aranan Sehir: aydin
+Kaç Derece: 19 Santigrat Derece
+Hava Durumu: Çok bulutlu
+Yağış Oranı: 7%
+Nem Oranı: 41%
+Rüzgar Şiddeti: 8 km/s
+********************************
+********************************
+Gün: 4 Nisan 2021 Pazar 18:12
+Aranan Sehir: Ankara
+Kaç Derece: 15 Santigrat Derece
+Hava Durumu: Çok bulutlu
+Yağış Oranı: 82%
+Nem Oranı: 47%
+Rüzgar Şiddeti: 10 km/s
+********************************
+********************************
+Gün: 4 Nisan 2021 Pazar 18:13
+Aranan Sehir: Gaziantep
+Kaç Derece: 14 Santigrat Derece
+Hava Durumu: Parçalı bulutlu
+Yağış Oranı: 0%
+Nem Oranı: 45%
+Rüzgar Şiddeti: 10 km/s
+********************************
+********************************
+Gün: 4 Nisan 2021 Pazar 18:38
+Aranan Sehir: Ankara
+Kaç Derece: 15 Santigrat Derece
+Hava Durumu: Çok bulutlu
+Yağış Oranı: 79%
+Nem Oranı: 45%
+Rüzgar Şiddeti: 10 km/s
+********************************
+********************************
+Gün: 4 Nisan 2021 Pazar 18:39
+Aranan Sehir: Bursa
+Kaç Derece: 18 Santigrat Derece
+Hava Durumu: Çok bulutlu
+Yağış Oranı: 10%
+Nem Oranı: 54%
+Rüzgar Şiddeti: 2 km/s
+********************************
+********************************
+Gün: 4 Nisan 2021 Pazar 18:40
+Aranan Sehir: Ardahan
+Kaç Derece: 7 Santigrat Derece
+Hava Durumu: Az bulutlu
+Yağış Oranı: 36%
+Nem Oranı: 51%
+Rüzgar Şiddeti: 3 km/s
+********************************
+********************************
+Gün: 4 Nisan 2021 Pazar 18:42
+Aranan Sehir: Sinop
+Kaç Derece: 13 Santigrat Derece
+Hava Durumu: Çok bulutlu
+Yağış Oranı: 5%
+Nem Oranı: 81%
+Rüzgar Şiddeti: 3 km/s
+********************************
+********************************
+Gün: 4 Nisan 2021 Pazar 18:43
+Aranan Sehir: Mersin
+Kaç Derece: 18 Santigrat Derece
+Hava Durumu: Parçalı bulutlu
+Yağış Oranı: 5%
+Nem Oranı: 70%
+Rüzgar Şiddeti: 11 km/s
+********************************
+********************************
+Gün: 4 Nisan 2021 Pazar 18:49
+Aranan Sehir: Mardin
+Kaç Derece: 11 Santigrat Derece
+Hava Durumu: Açık
+Yağış Oranı: 1%
+Nem Oranı: 52%
+Rüzgar Şiddeti: 10 km/s
+********************************
+********************************
+Gün: 4 Nisan 2021 Pazar 18:54
+Aranan Sehir: Igdir
+Kaç Derece: 16 Santigrat Derece
+Hava Durumu: Parçalı bulutlu
+Yağış Oranı: 5%
+Nem Oranı: 36%
+Rüzgar Şiddeti: 5 km/s
+********************************
+********************************
+Gün: 4 Nisan 2021 Pazar 18:56
+Aranan Sehir: istanbul
+Kaç Derece: 9 Santigrat Derece
+Hava Durumu: Çok bulutlu
+Yağış Oranı: 15%
+Nem Oranı: 86%
+Rüzgar Şiddeti: 27 km/s
+********************************
+********************************
+Gün: 8 Nisan 2021 Perşembe 16:39
+Aranan Sehir: Istanbul
+Kaç Derece: 7 Santigrat Derece
+Hava Durumu: Hafif sağanak yağmur
+Yağış Oranı: 84%
+Nem Oranı: 85%
+Rüzgar Şiddeti: 26 km/s
+********************************

@@ -1,0 +1,10 @@
+c:\users\kerem\onedrive\belgeler\visual studio 2015\Projects\SeleniumSecondProject\SeleniumSecondProject\bin\Debug\SeleniumSecondProject.exe.config
+c:\users\kerem\onedrive\belgeler\visual studio 2015\Projects\SeleniumSecondProject\SeleniumSecondProject\obj\Debug\SeleniumSecondProject.csprojResolveAssemblyReference.cache
+c:\users\kerem\onedrive\belgeler\visual studio 2015\Projects\SeleniumSecondProject\SeleniumSecondProject\bin\Debug\chromedriver.exe
+c:\users\kerem\onedrive\belgeler\visual studio 2015\Projects\SeleniumSecondProject\SeleniumSecondProject\bin\Debug\SeleniumSecondProject.exe
+c:\users\kerem\onedrive\belgeler\visual studio 2015\Projects\SeleniumSecondProject\SeleniumSecondProject\bin\Debug\SeleniumSecondProject.pdb
+c:\users\kerem\onedrive\belgeler\visual studio 2015\Projects\SeleniumSecondProject\SeleniumSecondProject\bin\Debug\WebDriver.dll
+c:\users\kerem\onedrive\belgeler\visual studio 2015\Projects\SeleniumSecondProject\SeleniumSecondProject\bin\Debug\WebDriver.xml
+c:\users\kerem\onedrive\belgeler\visual studio 2015\Projects\SeleniumSecondProject\SeleniumSecondProject\obj\Debug\SeleniumSecondProject.exe
+c:\users\kerem\onedrive\belgeler\visual studio 2015\Projects\SeleniumSecondProject\SeleniumSecondProject\obj\Debug\SeleniumSecondProject.pdb
+c:\users\kerem\onedrive\belgeler\visual studio 2015\Projects\SeleniumSecondProject\SeleniumSecondProject\obj\Debug\SeleniumSecondProject.csproj.ResolveComReference.cache
